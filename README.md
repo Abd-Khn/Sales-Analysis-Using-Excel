@@ -10,7 +10,7 @@ Regional Insights: Sales performance by state and region, identifying high-reven
 Revenue Drivers: Order-wise sales comparisons, category-wise breakdowns, and high-value transactions.
 Order Distribution: Categorization of orders into sales ranges using COUNTIFS.
 
-\nExcel Techniques Used:
+Excel Techniques Used:
 Pivot Tables & Pivot Charts
 SUMIF, COUNTIFS, INDEX MATCH, FILTER functions
 Conditional Formatting
