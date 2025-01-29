@@ -9,7 +9,8 @@ Segment Analysis: Sales distribution by customer segment with filters for region
 Regional Insights: Sales performance by state and region, identifying high-revenue areas.
 Revenue Drivers: Order-wise sales comparisons, category-wise breakdowns, and high-value transactions.
 Order Distribution: Categorization of orders into sales ranges using COUNTIFS.
-Excel Techniques Used:
+
+\nExcel Techniques Used:
 Pivot Tables & Pivot Charts
 SUMIF, COUNTIFS, INDEX MATCH, FILTER functions
 Conditional Formatting
